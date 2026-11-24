@@ -20,3 +20,6 @@ All text fields (`title`, `body`, and button `label` values) support legacy `&` 
 - `/info` — Reopen the welcome dialog (available to all players)
 - `/welcomedialog reload` — Hot-reload `config.json` (`welcomedialog.admin`, default: OP)
 - `/welcomedialog preview` — Preview the dialog in-game (`welcomedialog.admin`, default: OP)
+
+## Vibecoded?
+Yes, this project is not intended for public use. Use at your own risk.
