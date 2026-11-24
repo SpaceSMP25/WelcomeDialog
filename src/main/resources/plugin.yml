@@ -1,0 +1,19 @@
+name: WelcomeDialog
+version: '${project.version}'
+main: com.spacesmp.welcomedialog.WelcomeDialogPlugin
+api-version: '26.3'
+description: Shows a native welcome dialog modal to every player on join.
+
+commands:
+  welcomedialog:
+    description: Manage and preview the welcome dialog.
+    usage: /welcomedialog <reload|preview>
+    permission: welcomedialog.admin
+  info:
+    description: Reopen the welcome dialog.
+    usage: /info
+
+permissions:
+  welcomedialog.admin:
+    description: Access to reload and preview commands for WelcomeDialog.
+    default: op

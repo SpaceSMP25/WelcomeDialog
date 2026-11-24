@@ -1,0 +1,17 @@
+{
+  "title": "&6Welcome to the Server!",
+  "body": "&fThanks for joining! Check out our links below.",
+  "buttons": {
+    "discord": {
+      "label": "&9Join our Discord",
+      "url": "https://discord.gg/example"
+    },
+    "explore": {
+      "label": "&aStart Exploring"
+    },
+    "website": {
+      "label": "&eVisit our Website",
+      "url": "https://example.com"
+    }
+  }
+}
